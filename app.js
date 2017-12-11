@@ -25,36 +25,36 @@ const TASKS = {
     {
       'summary': 'Get yourself connected to voter registration system',
       'description': 'Be The Wave does not yet have enough information on you to locate you in the California voter registration database. Please add your full name, current address, and birthdate to allow a link to be made on the dashboard (http://10.1.6.1:5000/dashboard).',
-      'startDate': new Date(2017, 11, 10, 15, 0, 0),
-      'endDate': new Date(2017, 11, 10, 15, 15, 0)
+      'startDate': new Date(2017, 11, 10, 19, 0, 0),
+      'endDate': new Date(2017, 11, 10, 19, 15, 0)
     }
   ],
   'Avery': [
     {
       'summary': 'Remind Avery to vote today',
-      'description': 'Alabama has a general election today. Ensure Avery knows how to get to her polling place: St. John the Baptist Catholic School (https://goo.gl/maps/sb7he7M9PUx). Hours are from 7am to 7pm. Remember that if Avery arrives by 7pm she is legally entitled to vote even if there is a line.',
-      'startDate': new Date(2017, 11, 10, 15, 15, 0),
-      'endDate': new Date(2017, 11, 10, 15, 30, 0)
+      'description': 'Alabama has a general election tomorrow. Ensure Avery knows how to get to her polling place: St. John the Baptist Catholic School (https://goo.gl/maps/sb7he7M9PUx). Hours are from 7am to 7pm. Remember that if Avery arrives by 7pm she is legally entitled to vote even if there is a line.',
+      'startDate': new Date(2017, 11, 10, 19, 15, 0),
+      'endDate': new Date(2017, 11, 10, 19, 30, 0)
     },
     {
       'summary': 'Get Avery connected to voter registration system',
       'description': 'Be The Wave does not yet have enough information on Avery to locate her in the Alabama voter registration database. Please contact Avery and get her full name, current address, and birthdate to allow a link to be made.',
-      'startDate': new Date(2017, 11, 17, 15, 0, 0),
-      'endDate': new Date(2017, 11, 17, 15, 15, 0)
+      'startDate': new Date(2017, 11, 17, 19, 0, 0),
+      'endDate': new Date(2017, 11, 17, 19, 15, 0)
     }
   ],
   'Dakota': [
     {
       'summary': 'Get Dakota connected to voter registration system',
       'description': 'Be The Wave does not yet have enough information on Dakota to locate her in the Ohio voter registration database. Please contact Dakota and get her full name, current address, and birthdate to allow a link to be made.',
-      'startDate': new Date(2017, 11, 17, 15, 15, 0),
-      'endDate': new Date(2017, 11, 17, 15, 30, 0)
+      'startDate': new Date(2017, 11, 17, 19, 15, 0),
+      'endDate': new Date(2017, 11, 17, 19, 30, 0)
     },
     {
       'summary': 'Dakota no longer active in Ohio voter registration database',
       'description': 'On January 1, 2018, Dakota was flagged as inactive in the Ohio voter registration database. Contact her and ask her to inquire about her voting status by calling the local election office at 800.555.5555 or by visiting state.ohio.gov/voting.',
-      'startDate': new Date(2018, 0, 3, 15, 0, 0),
-      'endDate': new Date(2018, 0, 3, 15, 15, 0)
+      'startDate': new Date(2018, 0, 3, 19, 0, 0),
+      'endDate': new Date(2018, 0, 3, 19, 15, 0)
     }
   ],
   'Tommy': []
