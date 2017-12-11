@@ -1,0 +1,28 @@
+{
+  "name": "calendar-service",
+  "version": "1.0.0",
+  "description": "Google cloud function for managing calendars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/votewave/calendar-service.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/votewave/calendar-service/issues"
+  },
+  "homepage": "https://github.com/votewave/calendar-service#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^4.0.0",
+    "googleapis": "^23.0.0",
+    "jsonfile": "^4.0.0"
+  },
+  "devDependencies": {
+    "express": "^4.16.2"
+  }
+}
